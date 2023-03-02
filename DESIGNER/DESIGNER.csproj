@@ -86,7 +86,6 @@
     <Folder Include="Herramientas\" />
     <Folder Include="Mantenimientos\" />
     <Folder Include="Procesos\" />
-    <Folder Include="Reportes\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BOL\BOL.csproj">
